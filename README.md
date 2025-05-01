@@ -48,7 +48,7 @@ TPO dashboard displaying student applications pending approval.
 
 # DEC 7
 ![WhatsApp Image 2025-05-01 at 15 51 25_e3f00c12](https://github.com/user-attachments/assets/6c0ee509-5dac-4e3d-897e-fe45e314b357)
-TPO reviewing internship deferment requests.
+
 
 # DEC 8
 ![WhatsApp Image 2025-05-01 at 15 53 33_f4370d7b](https://github.com/user-attachments/assets/849cd1c5-cea8-41d4-ae2c-1d4493f756a8)
