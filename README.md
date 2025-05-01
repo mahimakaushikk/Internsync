@@ -32,11 +32,9 @@ Student dashboard with active internships and application status.
 
 # DEC 3
 ![WhatsApp Image 2025-05-01 at 15 45 24_7dc94bb5](https://github.com/user-attachments/assets/8b65065f-c18c-403b-90b3-1a5837de1de9)
-Internship listings page where students can browse available opportunities.
 
 # DEC 4
 ![WhatsApp Image 2025-05-01 at 15 46 19_2862a0e0](https://github.com/user-attachments/assets/77fa827c-a84a-4e37-810e-f78c26e021d0)
- Internship application form allowing students to apply with documents.
  
 # DEC 5
 ![WhatsApp Image 2025-05-01 at 15 47 02_0c54cebf](https://github.com/user-attachments/assets/cc115624-11bd-49d6-b592-b1faa9988aaa)
