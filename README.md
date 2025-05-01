@@ -19,3 +19,4 @@ Setup:-
 4. Migrate: python manage.py migrate
 5. Run: python manage.py runserver
 
+
